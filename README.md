@@ -1,13 +1,13 @@
-### 缘起
-~~读 100本 产品／运营／管理／经济／数据分析 相关的书/演讲分享（已经完成）~~
+# 缘起
+~~读 100本 产品／运营／管理／经济／数据分析 相关的书/演讲分享（已经完成）~~            
 3年前给自己定的目标是转型产品经理（具体可点击[链接](https://serverless80.com/zuo-jian-fa-2020gui-ling-chu-fa/)）。                   
 2017年有幸做了阿里云移动云相关产品的负责人，开始锻炼自己的产品思维和商业思考。2018年末，开始参与达摩院 AI 的产品化和商业化落地探索。2020年，正式转型全职产品经理，新的开始。当前个人主要方向是 2B 和云计算。三年里阅读了大量的书籍和参加内训，经常在内网知识学习平台霸榜。也记了不少笔记在本本上，这里将纸质笔记数字化。尽管是片段知识，但是大多是记笔记那一刻的感受最深刻的，最为触动的。         
 
-### 关于：有话要说     
+# 关于：有话要说     
 具体可见[链接](https://serverless80.com/about/)      
 
 
-### 轻知识列表        
+# 轻知识列表        
 - [客户体验模型](https://serverless80.com/ke-hu-ti-yan-mo-xing/)
 - [品牌的意义在于讲述关于客户体验的真实故事](https://serverless80.com/pin-pai-de-yi-yi-zai-yu-jiang-shu-guan-yu-ke-hu-ti-yan-de-zhen-shi-gu-shi/)
 - [品牌商与平台商的博弈](https://serverless80.com/pin-pai-shang-yu-ping-tai-shang-de-bo-yi/)
@@ -35,7 +35,7 @@
 - [经济的周期和趋势](https://serverless80.com/jing-ji-de-zhou-qi-he-qu-shi/)          
 - [自利逐利是件好事](https://serverless80.com/zi-li-zhu-li-shi-jian-hao-shi/)       
 
-### 更新渠道    
+# 更新渠道    
 - 网站：https://serverless80.com/；更新频次最高；
 - 语雀：https://www.yuque.com/lingling-citbl/pm；一般会同步更新；
 - 公众号：可能有一些其他有意思的东西；     
