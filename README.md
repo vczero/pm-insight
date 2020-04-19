@@ -36,8 +36,8 @@
 - [自利逐利是件好事](https://serverless80.com/zi-li-zhu-li-shi-jian-hao-shi/)       
 
 # 更新渠道    
-- 网站：https://serverless80.com/；更新频次最高；
-- 语雀：https://www.yuque.com/lingling-citbl/pm；一般会同步更新；
+- 网站(更新频次最高)：https://serverless80.com/
+- 语雀(一般会同步更新)：https://www.yuque.com/lingling-citbl/pm
 - 公众号：可能有一些其他有意思的东西；     
 ![个人公众号](https://serverless-80-host.oss-cn-hangzhou.aliyuncs.com/202004/1_1587196177279.png)
 
