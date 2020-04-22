@@ -7,7 +7,17 @@
 具体可见[链接](https://serverless80.com/about/)      
 
 
-# 轻知识列表        
+# 轻知识列表     
+- [AARRR、PMF、MVP、AIDMA](https://serverless80.com/aarrr-pmf-mvp-aidma/)           
+- [做产品就是直接做需求，不要跳跃](https://serverless80.com/zuo-chan-pin-xian-shi-dai-yao-qiu-shi-zhi-jie/)           
+- [创业公司从起步到垄断](https://serverless80.com/chuang-ye-gong-si-cong-qi-bu-dao-long-duan/)           
+- [互联网创业的本质](https://serverless80.com/hu-lian-wang-chuang-ye-de-ben-zhi/)           
+- [创业就是要追求增长和垄断，平均值没有意义](https://serverless80.com/chuang-ye-jiu-shi-yao-zhui-qiu-zeng-chang-he-long-duan-ping-jun-zhi-mei-you-yi-yi/)           
+- [从网站站长的生存状态到互联网产品方向](https://serverless80.com/cong-wang-zhan-zhan-chang-de-sheng-cun-zhuang-tai-dao-hu-lian-wang-chan-pin-fang-xiang/)           
+- [第三次谈品牌](https://serverless80.com/di-san-ci-tan-pin-pai/)           
+- [云计算全面替代传统IT的拐点](https://serverless80.com/yun-ji-suan-quan-mian-ti-dai-chuan-tong-itde-guai-dian/)           
+- [用户进入悦几时代，短视频数据报告](https://serverless80.com/yong-hu-jin-ru-yue-ji-shi-dai-duan-shi-pin-shu-ju-bao-gao/)           
+- [2020年是否新的机会也在酝酿](https://serverless80.com/2020nian-shi-fou-xin-de-ji-hui-ye-zai-yun-niang/)           
 - [客户体验模型](https://serverless80.com/ke-hu-ti-yan-mo-xing/)
 - [品牌的意义在于讲述关于客户体验的真实故事](https://serverless80.com/pin-pai-de-yi-yi-zai-yu-jiang-shu-guan-yu-ke-hu-ti-yan-de-zhen-shi-gu-shi/)
 - [品牌商与平台商的博弈](https://serverless80.com/pin-pai-shang-yu-ping-tai-shang-de-bo-yi/)
