@@ -7,7 +7,19 @@
 具体可见[链接](https://serverless80.com/about/)      
 
 
-# 轻知识列表     
+# 轻知识列表  
+- [互联网工厂要互联什么？](https://serverless80.com/hu-lian-wang-gong-han-yao-hu-lian-shi-yao/)
+- [战略思考框架](https://serverless80.com/zhan-lue-si-kao-kuang-jia/)
+- [腾讯的8分钟产品课精华](https://serverless80.com/teng-xun-de-8fen-zhong-chan-pin-ke-jing-hua/)
+- [非线性主导事物发展](https://serverless80.com/fei-xian-xing-zhu-dao-shi-wu-fa-zhan/)
+- [商业创新到底出现在哪个环节？](https://serverless80.com/shang-ye-chuang-xin-dao-di-chu-xian-zai-na-ge-huan-jie/)
+- [格鲁夫给经理人的第一课](https://serverless80.com/ge-lu-fu-gei-jing-li-ren-de-di-yi-ke/)
+- [选拔领导的必要条件，那些“暗”规则](https://serverless80.com/xuan-ba-ling-dao-de-bi-yao-tiao-jian-na-xie-an-gui-ze/)
+- [金字塔原理及语言的艺术](https://serverless80.com/jin-zi-ta-yuan-li-ji-yu-yan-de-yi-zhu/)
+- [乌合之众—群体不善推理，却急于行动](https://serverless80.com/wu-he-zhi-zhong-qun-ti-bu-shan-tui-li-que-ji-yu-xing-dong/)
+- [创业之路——客户发展方法](https://serverless80.com/chuang-ye-zhi-lu-ke-hu-fa-zhan-fang-fa/)
+- [传统产品（创业）之路以及弊端](https://serverless80.com/chuan-tong-chan-pin-chuang-ye-zhi-lu-yi-ji-bi-duan/)
+- [消费者运营实现的前提](https://serverless80.com/xiao-fei-zhe-yun-ying-shi-xian-de-qian-ti/)   
 - [AARRR、PMF、MVP、AIDMA](https://serverless80.com/aarrr-pmf-mvp-aidma/)           
 - [做产品就是直接做需求，不要跳跃](https://serverless80.com/zuo-chan-pin-xian-shi-dai-yao-qiu-shi-zhi-jie/)           
 - [创业公司从起步到垄断](https://serverless80.com/chuang-ye-gong-si-cong-qi-bu-dao-long-duan/)           
